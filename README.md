@@ -54,7 +54,7 @@ I'm Ali Mahmoud, Fullstack developer passionate about building humanitarian tech
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/Notes-SaaS?style=flat-square&labelColor=343b41"/></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/Alimahmoud333/Notes-SaaS"><b>Book Store</b></a></td>
+      <td><a href="https://github.com/Alimahmoud333/Book-Store"><b>Book Store</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Alimahmoud333/Book-Store?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Alimahmoud333/Book-Store?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Alimahmoud333/Book-Store?style=flat-square&labelColor=343b41"/></td>
