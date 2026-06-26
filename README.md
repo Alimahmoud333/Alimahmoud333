@@ -61,11 +61,11 @@ I'm Ali Mahmoud, Fullstack developer passionate about building humanitarian tech
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/Book-Store?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
-      <td><a href="https://github.com/Alimahmoud333/Delivery-Management-System"><b>Delivery Management System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Alimahmoud333/Delivery-Management-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Alimahmoud333/Delivery-Management-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Alimahmoud333/Delivery-Management-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/Delivery-Management-System?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Alimahmoud333/Delivery-Managment-System"><b>Delivery Management System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Alimahmoud333/Delivery-Managment-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Alimahmoud333/Delivery-Managment-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Alimahmoud333/Delivery-Managment-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/Delivery-Managment-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
