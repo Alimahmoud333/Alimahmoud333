@@ -41,10 +41,10 @@ I'm Ali Mahmoud, Fullstack developer passionate about building humanitarian tech
   <tbody>
       <tr>
       <td><a href="https://github.com/Alimahmoud333/chat-app"><b>Chat App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Alimahmoud333/chat-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Alimahmoud333/chat-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Alimahmoud333/chat-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/chat-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Alimahmoud333/chat_app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Alimahmoud333/chat_app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Alimahmoud333/chat_app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alimahmoud333/chat_app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Alimahmoud333/DisplacementSystem"><b>Displacement System</b></a></td>
